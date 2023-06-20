@@ -1,8 +1,18 @@
-<h2 align="center">Email Phishing Detection</h2>
+<h2 align="left">Email Phishing Detection</h2>
 
-<p align="center">
+<p align="left">
   <a>This is introduction to the Neural Network model for Email Phishing Detection.</a>
 </p>
-<p align="center">
+<p align="left">
   <a>The owner reserves the right to change the name or the contents of this repository.</a>
+</p>
+
+<h3 align="left">What is it?</h3>
+<p align="left">
+  <a>This is a detection model, made up of three components:</a>
+  <ol>
+  <li>Email Extraction from Gmail</li>
+  <li>Neural Network model training</li>
+  <li>Filename analysis</li>
+</ol>
 </p>
