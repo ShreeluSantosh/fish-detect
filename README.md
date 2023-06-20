@@ -9,10 +9,11 @@
 
 <h3 align="left">What is it?</h3>
 <p align="left">
-  <a>This is a detection model, made up of three components:</a>
+  <a>This is a detection model, made up of four components:</a>
   <ol>
   <li>Email Extraction from Gmail</li>
   <li>Neural Network model training</li>
-  <li>Filename analysis</li>
+  <li>URL extraction and checking for phishing features</li>
+  <li>File attachment check</li>
 </ol>
 </p>
